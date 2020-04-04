@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<!--  viewGroup colors  -->
+  <color name="colorPrimary">#FFE3F2FD</color>
+    <color name="colorPrimaryDark">#FFE3F2FD</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="layout_background" >#FFE3F2FD</color>
+    <color name="button_Background" > #FF00897B</color>
+    <color name="text_color" > #FF006064</color>
+    <color name="createGroup_textColor" > #FF448AFF</color>
+    <color name="image_background" > #FFF9FBE7</color>
+    <color name="editText_hint_color" > #FFE8EAF6</color>
+    <color name="endTextColor">#FF448AFF</color>
+<!--    general colors-->
+    <color name="white" > #FFF9FBE7</color>
+    <color name="black" > #000000</color>
+
+
+</resources>

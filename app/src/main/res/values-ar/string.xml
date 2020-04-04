@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="groups_num_pages"  >450 صفحة </string>
+    <string name="group_num_word">1 كلمة  </string>
+    <string name="numberofgroup" >ادخل رقم المجموعة</string>
+    <string name="finish_string">قم بالبحث عن مجموعة عن طريق الرقم الخاص بالمجموعة اطلب المساعدة من الادمن </string>
+    <string name="group_user_name">اسم المستخدم </string>
+    <string name="group_searsh">ابحث عن مجموعة! </string>
+    <string name="username">انشىء مجموعة جديدة  </string>
+
+
+</resources>

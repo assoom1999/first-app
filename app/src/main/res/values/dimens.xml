@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+
+    <dimen name="groups_image_width" >150dp</dimen>
+    <dimen name="groups_image_hight" >150dp</dimen>
+    <dimen name="group_userName_marginTop">20dp</dimen>
+    <dimen name="group_text_size">30dp</dimen>
+    <dimen name="group_layOut_margin_top">20dp</dimen>
+    <dimen name="group_Layout_margin">4dp</dimen>
+    <dimen name="group_padding">10dp</dimen>
+    <dimen name="group_TextSize">20dp</dimen>
+    <dimen name="group_layout_margin">5dp</dimen>
+    <dimen name="groupPadding">15dp</dimen>
+    <dimen name="group_layout_hight">70dp</dimen>
+    <dimen name="group_TextSiz">30dp</dimen>
+    <dimen name="group_marginTop">20dp</dimen>
+    <dimen name="group_layoutHight">70dp</dimen>
+    <dimen name="group_ems">10dp</dimen>
+    <dimen name="group_hight">50dp</dimen>
+    <dimen name="group_Text_Size">30dp</dimen>
+    <dimen name="group_margin">30</dimen>
+</resources>

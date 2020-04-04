@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="groups_num_pages">450 pages</string>
+    <string name="group_num_word"> 1 word  </string>
+    <string name="numberofgroup"> int number of group </string>
+    <string name="finish_string">enter a group id to searsh for ask id from group admin </string>
+    <string name="group_user_name">user name</string>
+    <string name="group_searsh">searsh for a group! </string>
+    <string name="username">Enter user Name</string>
+</resources>
